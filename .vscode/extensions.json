@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",//formatar de forma automática o código
+    "PKief.material-icon-theme",//formatar ícones dos arquivos e pastas no VSCOde
+    "rocketseat.theme-omni",//Tema da Rockeseat
+    "ritwickdey.LiveServer"//Recarregar automaticamente as alterações html no navegador
+  ]
+}
