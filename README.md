@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 
 - HTML
 - CSS
-_ Git e Github
+- Git e Github
 
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através
